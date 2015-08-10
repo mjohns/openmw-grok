@@ -15,7 +15,7 @@ do
 	sleep 2h
 
 	cd /openmwsrc/master/openmw
-  git pull https://github.com/OpenMW/openmw.git
+        git pull https://github.com/OpenMW/openmw.git
 
 	cd /opengrok/bin
   ./OpenGrok index
